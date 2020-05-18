@@ -3,7 +3,7 @@ Be Water Wise.
 It's a notification for your daily water intake with amazing water factz showing up every hour..
 
 # Demo 
-
+![notification on windows](https://github.com/JDRanpariya/drinkWater/blob/master/demo.png)
 ## Current support
 - windows
 
