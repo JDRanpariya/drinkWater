@@ -1,4 +1,5 @@
 # Drink-Water Be Healthy
+Be Water Wise.
 It's a notification for your daily water intake with amazing water factz showing up every hour..
 
 # Demo 
