@@ -11,7 +11,7 @@ Note: linux and mac support will be provided soon..
 2. type following into the command line `pythonw H2O_notification.py` to run app in the background
 3. Certain modification are possible as commented 
 
-# Features
+## Features
 - will show notifiation every hour with fact
 - more features are comming soon..
 
