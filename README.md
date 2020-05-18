@@ -1,6 +1,9 @@
 # Drink-Water Be Healthy
 It's a notification for your daily water intake with amazing water factz showing up every hour..
 
+# Demo 
+![example notification on windows](https://github.com/JDRanpariya/drinkWater/blob/master/Windows/Example.png)
+
 ## Current support
 - windows
 
