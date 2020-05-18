@@ -1,7 +1,7 @@
 import time, random
 import os
 import math
-from plyer import notification
+from plyer import notification #, tts
 
 
 if __name__ == "__main__":
@@ -21,7 +21,7 @@ if __name__ == "__main__":
     while True:
         
         n =  int(random.randint(0,9))
-
+        #tts.speak("Please drink Water!!")
         notification.notify(
 
             title="Please drink Water!!",  
